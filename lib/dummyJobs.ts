@@ -13,7 +13,7 @@ export const dummyJobs: Omit<Job, 'matchScore' | 'matchReasons' | 'isSaved'>[] =
     requiredSkills: ['IT Audit', 'SOX', 'COBIT', 'Risk Management', 'Banking'],
     preferredSkills: ['ISO 27001', 'NIST', 'Python', 'AWS'],
     experienceLevel: 'senior',
-    linkedinUrl: '#'
+    linkedinUrl: 'https://www.linkedin.com/jobs/view/3800000001'
   },
   {
     id: '2',
@@ -27,7 +27,7 @@ export const dummyJobs: Omit<Job, 'matchScore' | 'matchReasons' | 'isSaved'>[] =
     requiredSkills: ['Information Security', 'ISO 27001', 'Risk Management', 'Compliance'],
     preferredSkills: ['Nessus', 'Burp Suite', 'SIEM', 'Python'],
     experienceLevel: 'mid',
-    linkedinUrl: '#'
+    linkedinUrl: 'https://www.linkedin.com/jobs/view/3800000002'
   },
   {
     id: '3',
@@ -41,7 +41,7 @@ export const dummyJobs: Omit<Job, 'matchScore' | 'matchReasons' | 'isSaved'>[] =
     requiredSkills: ['AWS', 'Azure', 'Cloud Security', 'Information Security'],
     preferredSkills: ['Python', 'Terraform', 'DevSecOps', 'Kubernetes'],
     experienceLevel: 'mid',
-    linkedinUrl: '#'
+    linkedinUrl: 'https://www.linkedin.com/jobs/view/3800000003'
   },
   {
     id: '4',
@@ -55,7 +55,7 @@ export const dummyJobs: Omit<Job, 'matchScore' | 'matchReasons' | 'isSaved'>[] =
     requiredSkills: ['SOC', 'SIEM', 'Incident Response', 'Network Security'],
     preferredSkills: ['Wireshark', 'Splunk', 'Python', 'Threat Hunting'],
     experienceLevel: 'mid',
-    linkedinUrl: '#'
+    linkedinUrl: 'https://www.linkedin.com/jobs/view/3800000004'
   },
   {
     id: '5',
@@ -69,7 +69,7 @@ export const dummyJobs: Omit<Job, 'matchScore' | 'matchReasons' | 'isSaved'>[] =
     requiredSkills: ['GRC', 'Risk Management', 'Compliance', 'Banking'],
     preferredSkills: ['ISO 27001', 'COBIT', 'SOX', 'Data Privacy'],
     experienceLevel: 'mid',
-    linkedinUrl: '#'
+    linkedinUrl: 'https://www.linkedin.com/jobs/view/3800000005'
   },
   {
     id: '6',
@@ -83,7 +83,7 @@ export const dummyJobs: Omit<Job, 'matchScore' | 'matchReasons' | 'isSaved'>[] =
     requiredSkills: ['Information Security', 'Network Security', 'Python'],
     preferredSkills: ['Penetration Testing', 'Nessus', 'Burp Suite'],
     experienceLevel: 'junior',
-    linkedinUrl: '#'
+    linkedinUrl: 'https://www.linkedin.com/jobs/view/3800000006'
   },
   {
     id: '7',
@@ -97,7 +97,7 @@ export const dummyJobs: Omit<Job, 'matchScore' | 'matchReasons' | 'isSaved'>[] =
     requiredSkills: ['IT Audit', 'SOX', 'Banking', 'Team Leadership'],
     preferredSkills: ['CISA', 'CIA', 'Risk Management', 'COBIT'],
     experienceLevel: 'senior',
-    linkedinUrl: '#'
+    linkedinUrl: 'https://www.linkedin.com/jobs/view/3800000007'
   },
   {
     id: '8',
@@ -111,6 +111,6 @@ export const dummyJobs: Omit<Job, 'matchScore' | 'matchReasons' | 'isSaved'>[] =
     requiredSkills: ['Information Security', 'Risk Assessment', 'ISO 27001', 'Consulting'],
     preferredSkills: ['Penetration Testing', 'Incident Response', 'NIST'],
     experienceLevel: 'senior',
-    linkedinUrl: '#'
+    linkedinUrl: 'https://www.linkedin.com/jobs/view/3800000008'
   }
 ];
